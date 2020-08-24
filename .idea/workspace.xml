@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\netology\CashbackHacker" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
@@ -157,18 +159,26 @@
       <option name="project" value="LOCAL" />
       <updated>1598265167074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CashbackHackServiceTest added">
+      <created>1598266691791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598266691791</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CashbackHackService.java added" />
-    <option name="LAST_COMMIT_MESSAGE" value="CashbackHackService.java added" />
+    <MESSAGE value="CashbackHackServiceTest added" />
+    <option name="LAST_COMMIT_MESSAGE" value="CashbackHackServiceTest added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598265166119">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598266690928">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598265166119" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598266690928" />
     <state x="631" y="330" key="Github.ShareDialog" timestamp="1598264858582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -177,22 +187,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="564" y="130" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598264868807" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598266470840">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598266644165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598266470840">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598266644165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598266470840">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598266644165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598266470840">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598266644165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1598266449001">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -209,32 +219,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598265170708">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598266695248">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598265170708" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598266695248" />
     <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598265466949">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1598265466949" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java</url>
-          <line>6</line>
-          <properties class="ru.netology.service.CashbackHackService" method="remain">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
