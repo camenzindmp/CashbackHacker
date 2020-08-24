@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="" />
+    <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,14 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,10 +39,107 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+    <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.lessThan1k" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.lessThan1k&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.roundedToRubles" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.roundedToRubles&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.testRemain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.testRemain&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.roundedToRubles" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.lessThan1k" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,6 +150,91 @@
       <option name="presentableId" value="Default" />
       <updated>1598264498156</updated>
     </task>
+    <task id="LOCAL-00001" summary="CashbackHackService.java added">
+      <created>1598265167074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598265167074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CashbackHackService.java added" />
+    <option name="LAST_COMMIT_MESSAGE" value="CashbackHackService.java added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598265166119">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598265166119" />
+    <state x="631" y="330" key="Github.ShareDialog" timestamp="1598264858582">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="631" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1598264858582" />
+    <state x="564" y="130" key="Github.UntrackedFilesDialog" timestamp="1598264868807">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="564" y="130" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598264868807" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598266470840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598266470840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598266470840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598266470840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598266470840" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1598266449001">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1598266449001">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1598266449001">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1598266449001">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598265170708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598265170708" />
+    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598265466949">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1598265466949" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java</url>
+          <line>6</line>
+          <properties class="ru.netology.service.CashbackHackService" method="remain">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
