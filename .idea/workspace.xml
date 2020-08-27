@@ -30,10 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
       <list>
         <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -85,7 +84,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598267614659</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JUnit4 configured">
+      <created>1598524564776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598524564776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,13 +257,14 @@
     <MESSAGE value="CashbackHackService.java added" />
     <MESSAGE value="CashbackHackServiceTest added" />
     <MESSAGE value="workflow configured" />
-    <option name="LAST_COMMIT_MESSAGE" value="workflow configured" />
+    <MESSAGE value="JUnit4 configured" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUnit4 configured" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598267613966">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598524562709">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598267613966" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598524562709" />
     <state x="631" y="330" key="Github.ShareDialog" timestamp="1598264858582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -265,22 +273,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="564" y="130" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598264868807" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598266644165">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598524497549">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598266644165">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598524497549" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598524497548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598266644165">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598524497548" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598524497548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598266644165">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598524497548" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598524497548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598266644165" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598524497548" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1598266449001">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -297,13 +305,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598267616987">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598524572378">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598267616987" />
-    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598265466949">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598524572378" />
+    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598524318208">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1598265466949" />
+    <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1598524318208" />
   </component>
 </project>
