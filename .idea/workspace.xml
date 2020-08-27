@@ -30,8 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/gradle.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598266691791</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="workflow configured">
+      <created>1598267614659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598267614659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,13 +249,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CashbackHackService.java added" />
     <MESSAGE value="CashbackHackServiceTest added" />
-    <option name="LAST_COMMIT_MESSAGE" value="CashbackHackServiceTest added" />
+    <MESSAGE value="workflow configured" />
+    <option name="LAST_COMMIT_MESSAGE" value="workflow configured" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598266690928">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598267613966">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598266690928" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598267613966" />
     <state x="631" y="330" key="Github.ShareDialog" timestamp="1598264858582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -287,10 +297,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598266695248">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598267616987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598266695248" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598267616987" />
     <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598265466949">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
