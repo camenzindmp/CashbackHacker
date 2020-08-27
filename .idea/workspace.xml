@@ -30,8 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5525ff-c775-41d2-8604-2e15abde6197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTestOnJuni5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTestOnJunit5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTestOnJunit5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,11 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="CashbackHacker" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CashbackHacker" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -255,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598525064649</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JUnit4 plus JUnit5">
+      <created>1598525667468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598525667468</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,13 +300,14 @@
     <MESSAGE value="workflow configured" />
     <MESSAGE value="JUnit4 configured" />
     <MESSAGE value="JUnit Jupiter added to build.gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="JUnit Jupiter added to build.gradle" />
+    <MESSAGE value="JUnit4 plus JUnit5" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUnit4 plus JUnit5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598525063894">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1598525665156">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598525063894" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598525665156" />
     <state x="631" y="330" key="Github.ShareDialog" timestamp="1598264858582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -303,22 +316,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="564" y="130" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1598264868807" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598525105040">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598525785070">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598525105040" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598525105039">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598525785070" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598525785070">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598525105039" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598525105039">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598525785070" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598525785070">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598525105039" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598525105040">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598525785070" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598525785070">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598525105040" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598525785070" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1598266449001">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -335,10 +348,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1598266449001" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598525066200">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598525670569">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598525066200" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598525670569" />
     <state x="540" y="254" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598525241474">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
